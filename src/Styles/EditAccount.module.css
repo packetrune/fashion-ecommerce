@@ -1,0 +1,10 @@
+.input {
+    border: 0px;
+    border-bottom: 3px solid rgb(127, 137, 143);
+    outline-style: none;
+    height: 30px;
+    margin-bottom: 5px;
+    width: 100%; font-size: 16px;
+}
+
+.label { color: #8f8d8c; font-weight: bold;}

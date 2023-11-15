@@ -1,0 +1,5 @@
+.card:hover{   box-shadow: 0 0 12px 6px #cacaca;
+    -webkit-box-shadow: 0 0 12px 6px #cacaca; 
+}
+
+.card{width: 30%; }
